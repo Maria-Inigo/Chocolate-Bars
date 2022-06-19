@@ -7,11 +7,11 @@ The first solid chocolate bar put into production was made by J. S. Fry & Sons o
 
 In light of all of this, this dataset contains reviews on more than 2400 different chocolate bars along with metadata and information on US and Canadian based producers. A rating scale is provided and is defined as follows:
 
-4.0 - 5.0 = Outstanding
-3.5 - 3.9 = Highly Recommended
-3.0 - 3.4 = Recommended
-2.0 - 2.9 = Disappointing
+4.0 - 5.0 = Outstanding <br/>
+3.5 - 3.9 = Highly Recommended <br/>
+3.0 - 3.4 = Recommended <br/>
+2.0 - 2.9 = Disappointing <br/>
 1.0 - 1.9 = Unpleasant
 
 #### Resources
-[Dataset](https://www.kaggle.com/datasets/andrewmvd/chocolate-ratings)
+- [Dataset](https://www.kaggle.com/datasets/andrewmvd/chocolate-ratings)
